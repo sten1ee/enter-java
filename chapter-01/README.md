@@ -15,7 +15,7 @@
 ... и се стигне до компютрите и тяхното 'програмното обезпечаване', което е предмета на нашата среща днес и в предстоящите седмици.
 
 [//]: # (TODO: competing with Nature vs. competing with other humans, e.g. wars & weapons)
-[//]: # (Early computers are not anywhere close to what we now think a computer is)
+[//]: # (Early computers were not anywhere close to what we now think a computer is)
 
 Ранните компютри нямат много общо със сегашната ни представа за компютър
 ------------------------------------------------------------------------
