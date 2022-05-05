@@ -1,2 +1,5 @@
-# enter-java
-Resources accompanying the "Learn to Program in Java" course
+# Учим се да програмираме (с Java)
+Материали съпътстващи курса
+
+[Занятие 1](chapter-01/s01.md)
+
