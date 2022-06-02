@@ -42,8 +42,8 @@ else {
 
 Интересно и полезно: няколко if-else оператора мога да се навържат последователно:
 ```java
-var dayOfWeekNumber = 3
-var dayOfWeekName = ""
+int dayOfWeekNumber = 3;
+String dayOfWeekName = "";
 if (dayOfWeekNumber == 1) {
   dayOfWeekName = "Monday";
 } else if (dayOfWeekNumber == 2) {
